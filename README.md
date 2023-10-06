@@ -1,4 +1,7 @@
+# Making Change in GITHUB
+# making changes in BAS to reflect the same in GIT
 ## Application Details
+
 |               |
 | ------------- |
 |**Generation Date and Time**<br>Fri Oct 06 2023 05:46:28 GMT+0000 (Coordinated Universal Time)|
